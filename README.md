@@ -1,7 +1,6 @@
 # Conformal Beam Search
 
-Implementation and experiment code
-for the paper:  
+Implementation and experiment code for the paper:  
 [Conformal Autoregressive Generation: Beam Search with Coverage Guarantees](https://arxiv.org/abs/2309.03797)
 
 ## Usage
