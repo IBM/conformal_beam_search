@@ -138,3 +138,7 @@ Guarantees*. arXiv preprint [arXiv:2309.03797](https://arxiv.org/abs/2309.03797)
 }
 ```
 
+## Code contributors
+Nicolas Deutschmann [@ndeutschmann](https://github.com/ndeutschmann)  
+Marvin Alberts [@MAlberts99](https://github.com/MAlberts99)
+
